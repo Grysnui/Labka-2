@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636231871 source:c:\users\marmo\desktop\grysnui_toxic\domashka\informatika1\codeblock\lab2\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
