@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T13:40:56.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.91" etag="4VadKW45iHQAxk_v_9qL" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T18:58:18.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.91" etag="CaQnH34gBwfzKSLxR5WW" version="15.7.2" type="github">
   <diagram id="j7CseQX7H152feD_j4Yb" name="Page-1">
-    <mxGraphModel dx="1141" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1342" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="0iMEfIhh2yUHPYTHlg61-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0iMEfIhh2yUHPYTHlg61-9" target="0iMEfIhh2yUHPYTHlg61-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0iMEfIhh2yUHPYTHlg61-9" value="Введення варіанту(v)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=11;" parent="1" vertex="1">
+        <mxCell id="0iMEfIhh2yUHPYTHlg61-9" value="Введення данних&lt;br&gt;(a,b,N,v)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=6;" parent="1" vertex="1">
           <mxGeometry x="354" y="420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0iMEfIhh2yUHPYTHlg61-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0iMEfIhh2yUHPYTHlg61-11" target="0iMEfIhh2yUHPYTHlg61-13" edge="1">
@@ -61,22 +61,26 @@
         <mxCell id="0iMEfIhh2yUHPYTHlg61-11" value="Чому дорівнює v?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="343.5" y="490" width="121" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0iMEfIhh2yUHPYTHlg61-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0iMEfIhh2yUHPYTHlg61-13" target="0iMEfIhh2yUHPYTHlg61-23" edge="1">
+        <mxCell id="0iMEfIhh2yUHPYTHlg61-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0iMEfIhh2yUHPYTHlg61-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="710" as="targetPoint" />
+            <mxPoint x="404" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0iMEfIhh2yUHPYTHlg61-13" value="Підпрограма&amp;nbsp;&lt;br&gt;Прямокутник" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.1;" parent="1" vertex="1">
           <mxGeometry x="219" y="600" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0iMEfIhh2yUHPYTHlg61-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0iMEfIhh2yUHPYTHlg61-14" target="0iMEfIhh2yUHPYTHlg61-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0iMEfIhh2yUHPYTHlg61-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0iMEfIhh2yUHPYTHlg61-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0iMEfIhh2yUHPYTHlg61-14" value="Підпрограма&amp;nbsp;&lt;br&gt;Трапеція" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.1;" parent="1" vertex="1">
           <mxGeometry x="354" y="600" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0iMEfIhh2yUHPYTHlg61-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0iMEfIhh2yUHPYTHlg61-16" target="0iMEfIhh2yUHPYTHlg61-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0iMEfIhh2yUHPYTHlg61-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0iMEfIhh2yUHPYTHlg61-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0iMEfIhh2yUHPYTHlg61-16" value="Підпрограма&amp;nbsp;&lt;br&gt;Сімпсон" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.1;" parent="1" vertex="1">
           <mxGeometry x="489" y="600" width="100" height="50" as="geometry" />
@@ -90,17 +94,16 @@
         <mxCell id="0iMEfIhh2yUHPYTHlg61-22" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="404" y="560" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0iMEfIhh2yUHPYTHlg61-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0iMEfIhh2yUHPYTHlg61-23" target="0iMEfIhh2yUHPYTHlg61-4" edge="1">
+        <mxCell id="0iMEfIhh2yUHPYTHlg61-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.826;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="54XzkMvaZk7UMP4pC71x-1" target="0iMEfIhh2yUHPYTHlg61-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="404" y="770" />
-              <mxPoint x="200" y="770" />
+              <mxPoint x="404" y="758" />
+              <mxPoint x="404" y="780" />
+              <mxPoint x="200" y="780" />
               <mxPoint x="200" y="290" />
             </Array>
+            <mxPoint x="404" y="750" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0iMEfIhh2yUHPYTHlg61-23" value="Виведення результату" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="700" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0iMEfIhh2yUHPYTHlg61-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0iMEfIhh2yUHPYTHlg61-11" target="0iMEfIhh2yUHPYTHlg61-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -120,8 +123,11 @@
         <mxCell id="0iMEfIhh2yUHPYTHlg61-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0iMEfIhh2yUHPYTHlg61-33" target="0iMEfIhh2yUHPYTHlg61-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0iMEfIhh2yUHPYTHlg61-33" value="Написання підпрограм" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" parent="1" vertex="1">
+        <mxCell id="0iMEfIhh2yUHPYTHlg61-33" value="Написання підпрограм" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=6;" parent="1" vertex="1">
           <mxGeometry x="354" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="54XzkMvaZk7UMP4pC71x-1" value="Виведення Результатів&lt;br&gt;(I,Mistake,N)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.2857142857142857;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="700" width="105" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
